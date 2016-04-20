@@ -1,0 +1,2 @@
+*** Test killed with quit: ran too long (10m0s).
+FAIL    github.com/boltdb/bolt  600.130s
