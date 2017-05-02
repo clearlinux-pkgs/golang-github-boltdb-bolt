@@ -4,7 +4,7 @@
 #
 Name     : golang-github-boltdb-bolt
 Version  : 144418e1475d8bf7abbdc48583500f1a20c62ea7
-Release  : 3
+Release  : 4
 URL      : https://github.com/boltdb/bolt/archive/144418e1475d8bf7abbdc48583500f1a20c62ea7.tar.gz
 Source0  : https://github.com/boltdb/bolt/archive/144418e1475d8bf7abbdc48583500f1a20c62ea7.tar.gz
 Summary  : No detailed summary available
